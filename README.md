@@ -14,10 +14,10 @@
           <td height="45" colspan="3"><blockquote>
               <h1 align="center"><strong>Avril Fonseca</strong></h1>
           </blockquote></td>
-          <td align="right" width="318">&nbsp;<a href="CV/curriculum.zip">Descargar</a>&nbsp;&nbsp;</td>
+          <td align="right" width="318">&nbsp;<a href="CURRICULUM/CV/curriculum.zip">Descargar</a>&nbsp;&nbsp;</td>
         </tr>
         <tr>
-          <td align= "center" width="125" height="163.438"><h3><img  src="imágenes/1x/Imagencv1-100.jpg" width="115" height="115" alt="" align= "center"/></h3></td>
+          <td align= "center" width="125" height="163.438"><h3><img  src="CURRICULUM/imágenes/1x/Imagencv1-100.jpg" width="115" height="115" alt="" align= "center"/></h3></td>
           <td colspan="2"><h3><strong>Diseñadora Gráfica</strong></h3>
             <p>Estudiante de Diseño Gráfico de la Universidad Centroamericana desde el año 202, actualmente curso el tercer semestre de la carrera.&nbsp; &nbsp;&nbsp;</p>
           <p>&nbsp;</p></td>
@@ -37,7 +37,7 @@
         <tr>
           <td height="29">&nbsp;Primer Semestre</td>
           <td>&nbsp;Febrero - Junio 2022</td>
-          <td colspan="2" rowspan="4"><img src="imágenes/habilidades.png" width="461" height="179" alt=""/></td>
+          <td colspan="2" rowspan="4"><img src="CURRICULUM/imágenes/habilidades.png" width="461" height="179" alt=""/></td>
         </tr>
         <tr>
           <td height="134" colspan="2"><ul>
